@@ -1,3 +1,4 @@
+<img src="img/sobre.png">
 
 
 Atualmente, além do trabalho de mestrado, participo do desenvolvimento de uma orquestradora de 
