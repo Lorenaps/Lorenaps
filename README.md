@@ -15,4 +15,4 @@ subjugation of individuals and cultures.
 More details about professional experiences can be found in my profile at [LinkedIn](www.linkedin.com/in/lorenaps).
 
 
-[*"It's just a felling..."- Nina Simone*](https://www.youtube.com/watch?v=ZF9j4lMoSQk)
+[*"It's just a felling..." - Nina Simone*](https://www.youtube.com/watch?v=ZF9j4lMoSQk)
