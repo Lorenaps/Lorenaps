@@ -2,7 +2,8 @@
 
 
 Atualmente, além do trabalho de mestrado, participo do desenvolvimento de uma orquestradora de 
-execuções na linguagem Golang e de comunidades de tecnologias como PyLadies Paraíba e Salvador. 
+execuções na linguagem Golang e de comunidades de incentivo ao protagonismo de mulheres 
+na área de tecnologia como PyLadies Paraíba e Salvador. 
 Mais detalhes sobre as experiências profissionais podem ser encontrados em meu perfil no [LinkedIn](www.linkedin.com/in/lorenaps).
 
 
