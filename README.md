@@ -1,4 +1,4 @@
-<img src="img/sobre.png">
+<img src="https://github.com/Lorenaps/Lorenaps/blob/master/img/sobre.png">
 
 
 Atualmente, além do trabalho de mestrado, participo do desenvolvimento de uma orquestradora de 
