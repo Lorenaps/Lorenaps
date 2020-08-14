@@ -13,3 +13,6 @@ I believe that technology is a powerful way to help people transform their reali
 is aligned with educational processes that, at least, question the practices of colonization and 
 subjugation of individuals and cultures. 
 More details about professional experiences can be found in my profile at [LinkedIn](www.linkedin.com/in/lorenaps).
+
+
+[*"It's just a felling..."- Nina Simone*](https://www.youtube.com/watch?v=ZF9j4lMoSQk)
