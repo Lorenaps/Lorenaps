@@ -2,10 +2,6 @@
 
 Sempre tive interesse em tecnologia aplicada em causas sociais. Acredito que a tecnologia é um poderoso meio para ajudar as pessoas na transformação de suas realidades. Desde que, esteja alinhada com processos educacionais que, no mínimo, questionam práticas de colonização e subjugamento de indivíduos e culturas.
 
-Atualmente, além do trabalho de mestrado, participo do desenvolvimento de uma orquestradora de 
-execuções na linguagem Golang e de comunidades de incentivo ao protagonismo de mulheres 
-na área de tecnologia como [PyLadies Paraíba](https://www.instagram.com/pyladiespb/) e [Salvador](https://www.instagram.com/pyladies.ssa/). 
-Também atuo no [SoteroLab](https://github.com/soterolab): Um laboratório para incentivar a democratização e descolonização do pensamento científico.
 
 ### Outros projetos e participações bem especiais pra mim ❤️
 
