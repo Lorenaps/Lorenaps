@@ -12,10 +12,12 @@ Na graduação, me debrucei sobre a análise de tweets com tendência a discurso
 
 Também atuo no [SoteroLab](https://github.com/soterolab): Laboratório para discutir tecnologia, comunidades e pensamento científico. 
 
-### Outros projetos e participações bem especiais pra mim ❤️
+### Projetos e participações bem especiais pra mim ❤️
 
 Assunto   | Mídia
 --------- | ------
+Educação brasileira: tecnologia cívica e comunidade | [Vídeo na Python Brasil 2022](https://youtu.be/VBH-xItHt-w?t=84)
+Seminário 10 Anos da Lei de Cotas: Resultados e Desafios | [Vídeo da Parte II - 10 Anos da Lei de Cotas - CERAP/GEMAA](https://youtu.be/SFWOjbfxmCw?t=2433)
 Dados abertos sobre a educação brasileira: importância e utilização | [Vídeo no canal do Curso Sistemas de Informação - UNEB](https://www.youtube.com/watch?v=3MH5TBTo9hI)
 Sistemas de Informação: Como é o curso?? | [Vídeo - Bit de Prosa / Canal Peixe Babel](https://youtu.be/tFAMSWmHjFo?list=PL3Wx5P4NOzUhcIWeCXx67zI8UI2f32yVK)
 Apresentação do Projeto Ẹkọ no 9º Fórum da Internet no Brasil| [Vídeo - Novas estratégias para enfrentar o discurso de ódio na Internet](https://youtu.be/DArj2HuxzbQ?list=PLQq8-9yVHyOZC-nib--n6hvuJStk1TKsA&t=2958)
