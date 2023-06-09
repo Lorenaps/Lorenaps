@@ -33,3 +33,5 @@ is aligned with educational processes that, at least, question the practices of 
 More details about professional experiences can be found in my profile at [LinkedIn](www.linkedin.com/in/lorenaps).
 
 [*"It's just a feeling..." - Nina Simone*](https://www.youtube.com/watch?v=ZF9j4lMoSQk)
+
+> Algoritmo de Sobrevivência da Criança/Família que é Preta e Pobre - O primeiro e mais avançado algortimo que eu já conheci!
