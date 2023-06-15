@@ -18,3 +18,11 @@ Essa análise estará baseada nas fontes de dados citadas, assim como em livros 
 Dados abertos governamentais são um recurso essencial na construção de tecnologias que visam apoiar a resolução de problemas sociais. Na educação brasileira, contamos com muitas possibilidades 
 de análises e de incidências. Essa palestra apresenta o processo e os resultados de um estudo sobre a dinâmica entre as pessoas e organizações que fazem uso desses dados e que muitas vezes 
 aplicam os resultados das análises para auxiliar professores e gestores educacionais.
+
+### Aya: Curso Livre de Lógica de Programação com Python
+
+O objetivo desse curso é construir com seus participantes uma base sólida nos conceitos e práticas de lógica de programação utilizando a linguagem Python. A construção COM os participantes é destacada aqui a partir de uma perspectiva da Educação Popular, que entende que “ensinar não é transferir conhecimento, mas criar as possibilidades para a sua produção ou a sua construção” - Paulo Freire (Pedagogia da Autonomia, Pág 20). 
+
+Durante cerca de 4 semanas veremos de forma dedicada e intensa o pensamento computacional por trás da programação em Python. E por isso, teremos uma turma reduzida para que o acompanhamento seja feito de forma bem próxima do ritmo e contexto de cada pessoa. 
+
+[Mais informações disponíveis na plataforma de inscrição](https://www.even3.com.br/aya-ciclo-de-logica-de-programacao-com-python-330952/)
