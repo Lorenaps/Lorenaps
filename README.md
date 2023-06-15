@@ -12,6 +12,8 @@ Na graduação, me debrucei sobre a análise de tweets com tendência a discurso
 
 Também atuo no [SoteroLab](https://github.com/soterolab): Laboratório para discutir tecnologia, comunidades e pensamento científico. 
 
+> [Resumo de Apresentações, Cursos e Palestras já realizadas](https://github.com/Lorenaps/Lorenaps/blob/master/palestras.md)
+
 ### Projetos e participações bem especiais pra mim ❤️
 
 Assunto   | Mídia
