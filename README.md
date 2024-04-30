@@ -18,6 +18,7 @@ Também atuo no [SoteroLab](https://github.com/soterolab): Laboratório para dis
 
 Assunto   | Mídia
 --------- | ------
+Mulher Tech Pod - Inteligência Artifical e Entrelaçamentos Sociais | [Palestra e Podcast no evento Mulher Tech Sim Senhor - 2024](https://podcasters.spotify.com/pod/show/mulher-tech-sim-senhor/episodes/Conversa-com-Lorena-Pereira-e2i51pj)
 Educação brasileira: tecnologia cívica e comunidade | [Vídeo na Python Brasil 2022](https://youtu.be/VBH-xItHt-w?t=84)
 Seminário 10 Anos da Lei de Cotas: Resultados e Desafios | [Vídeo da Parte II - 10 Anos da Lei de Cotas - CERAP/GEMAA](https://youtu.be/SFWOjbfxmCw?t=2433)
 Dados abertos sobre a educação brasileira: importância e utilização | [Vídeo no canal do Curso Sistemas de Informação - UNEB](https://www.youtube.com/watch?v=3MH5TBTo9hI)
